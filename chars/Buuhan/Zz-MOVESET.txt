@@ -1,0 +1,40 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+D+b (in air) - Tyrant Stomp
+
+COMBOS:
+
+a,a,a,a,a,a - Combo 1
+
+b,b - Combo 2
+
+a,a,b,b - Air
+
+a,a,a,a,a,b,b,a,a,b,b - Full
+
+SPECIALS:
+
+D,DF,F,a - Mystic Grapple
+
+D,DB,B,a - Candy Beam
+
+a (after Candy Beam) - Candy Kick
+
+D,DF,F,b - Super Ghost Kamekaze Attack
+
+D,DB,B,b - Vanishing Ball
+
+D,DF,F,c - Majin Kamehameha
+
+D,DB,B,c - Self-Destruction
+
+SUPER: 
+
+x - Unrelenting Despair Assault

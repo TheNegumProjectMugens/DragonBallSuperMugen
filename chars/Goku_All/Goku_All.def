@@ -1,0 +1,46 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Goku"
+displayname ="Goku"
+versiondate =25/03/2018
+mugenversion =1.0
+author ="Mikel8888" ;Actually made by Shiruzato/Mythos
+pal.defaults =1,1,1,1
+
+[Files]
+sprite =Goku_JUS.sff
+anim =Goku_JUS.air
+sound =Goku_JUS.snd
+cmd =Goku_JUS.cmd
+cns =Goku_JUS.cns
+stcommon =common1.cns
+st =Goku_JUS.cns
+pal1=1.act
+pal2=1.act
+pal3=1.act
+pal4=1.act
+pal5=1.act
+pal6=1.act
+pal7=SS1.act
+pal8=SS2.act
+pal9=SS3.act
+pal10=SSG.act
+pal11=SSB.act
+pal12=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+st4=SS1.cns
+st5=SS2.cns
+st6=SS3.cns
+st7=SSG.cns
+st8=SSB.cns
+st9=UI.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

@@ -1,0 +1,36 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a - Combo 1
+
+b,b,b,b - Combo 2
+
+a,b,b - Air
+
+a,a,a,b,b,b,b,Jump,a,b,b - Full
+
+SPECIALS:
+
+D,DF,F,a - Sword Rush
+
+D,DB,B,a - Explosive Wave
+
+D,DF,F,b - Sword Waves
+
+D,DB,B,b - Burning Attack
+
+D,DF,F,c - Masenko
+
+D,DB,B,c - Burning Storm
+
+SUPER: 
+
+x - Shining Sword Attack

@@ -1,0 +1,30 @@
+
+A - Low Hit
+
+B - Tail Hit
+
+C - Ki Blast
+
+S - Power Charge
+
+SPECIALS:
+
+D,DF,F,a - Shock Wave 
+
+D,DB,B,a - Destructive Ray
+
+D,DF,F,b - Sauzer Blade
+
+D,DB,B,b - Hyper Movement
+
+D,DF,F,c - Full Power Energy Wave
+
+D,DB,B,c - Psychokinesis
+
+SUPER:
+
+D,DF,F,a+b - Death Ball
+
+ULTIMATE: 
+
+D,DF,F,D,DF,F,a+b - Chaotic Death End

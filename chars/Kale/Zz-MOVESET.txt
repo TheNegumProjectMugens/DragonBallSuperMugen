@@ -1,0 +1,36 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a,a,a,a - Combo 1
+
+b,b,b,b - Combo 2
+
+a,a,b,b,b - Air
+
+a,a,a,a,a,b,b,b,b,a,a,b,b,b - Full
+
+SPECIALS:
+
+D,DF,F,a - Edge Rush
+
+D,DB,B,a - Eraser Heat
+
+D,DF,F,b - Berserker Rampage
+
+D,DB,B,b - Strike Blaster
+
+D,DF,F,c - Omega Wave
+
+D,DB,B,c - Trap Shooter
+
+SUPER: 
+
+x - Berserker Meteor

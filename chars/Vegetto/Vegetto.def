@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Super Vegetto"
+displayname = "Super Vegetto"
+versiondate = 31/03/2018
+mugenversion = 1.0
+author = "anas and Mikel8888, edited by Shiruzato/MYTHOS"
+pal.defaults = 1
+
+[Files]
+sprite = Vegetto.sff
+anim = Vegetto.air
+sound = Vegetto.snd
+cmd = Vegetto.cmd
+cns = Vegetto.cns
+stcommon = common1.cns
+st = Vegetto.cns
+st1 = IA.cns
+st2 = Especiales.cns
+st3 = Supers.cns
+pal1 = 1.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

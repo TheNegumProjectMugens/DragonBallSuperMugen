@@ -1,0 +1,23 @@
+[Info]
+name="Raditz"
+displayname="Raditz"
+versiondate=16/04/2018
+mugenversion=1.1
+author="Planeptune"
+pal.defaults=1,2
+[Files]
+sprite=Raditz.sff
+sound=Raditz.snd
+anim=Raditz.air
+cmd=Raditz.cmd
+cns=Raditz.cns
+st=Raditz.cns
+st1=AI.cns
+stcommon=common1.cns
+pal1=Raditz.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
+;Credits:
+;Sprites: Martin720,Mattfv
+;Emiliano 01 && Team OS,Knightmare404,Aagus

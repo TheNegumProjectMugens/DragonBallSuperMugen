@@ -1,0 +1,24 @@
+[Info]
+name ="Gohan"
+displayname ="Teen Gohan"
+versiondate =25/12/2017
+mugenversion =1.0
+author ="Mikel8888, edited by InSeph and Shiruzato/MYTHOS"
+pal.defaults =1
+
+[Files]
+sprite =GohanTeen.sff
+anim =GohanTeen.air
+sound =GohanTeen.snd
+cmd =GohanTeen.cmd
+cns =GohanTeen.cns
+stcommon =common1.cns
+st =GohanTeen.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

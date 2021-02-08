@@ -1,0 +1,31 @@
+[Info]
+name ="Kefla"
+displayname ="Kefla"
+versiondate =30/04/2018
+mugenversion =1.0
+author ="Mikel8888" ;Actually made by Knightmare and Planeptune, edited by Shiruzato/Mythos
+pal.defaults =1
+
+[Files]
+sprite =Kefla.sff
+anim =Kefla.air
+sound =Kefla.snd
+cmd =Kefla.cmd
+cns =Kefla.cns
+stcommon =common1.cns
+st =Kefla.cns
+pal1=1.act
+pal2=1.act
+pal3=1.act
+pal4=1.act
+pal5=1.act
+pal6=1.act
+pal7=1.act
+st1=IA.cns
+st2=SSJ.cns
+st3=Specials.cns
+st4=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

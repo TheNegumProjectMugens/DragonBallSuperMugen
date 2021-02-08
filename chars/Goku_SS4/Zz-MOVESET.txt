@@ -1,0 +1,40 @@
+
+A - Light Combo
+
+B - Heavy Combo
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+Base Form:
+
+a,a,a,a - Light
+
+b,b,b,b - Heavy
+
+b,b,a,a - Air
+
+a,a,a,b,b,b,b,a - Full
+
+SPECIALS:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Taiyoken
+
+D,DF,F,b - Super Dragon Fist
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Kamehameha x10
+
+D,DB,B,c - Super Energy Wave Volley
+
+SUPER: 
+
+Base Form:
+
+x - Dragon Fist

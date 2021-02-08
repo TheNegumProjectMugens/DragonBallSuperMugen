@@ -1,0 +1,34 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Android 17"
+displayname ="Android 17"
+versiondate =30/11/2015
+mugenversion =1.0
+author ="Mikel8888"
+pal.defaults =1,2,3,4,5,6
+
+[Files]
+sprite =Android 17.sff
+anim =Android 17.air
+sound =Android 17.snd
+cmd =Android 17.cmd
+cns =Android 17.cns
+stcommon =common1.cns
+st =Android 17.cns
+pal1=1.act
+pal2=2.act
+pal3=3.act
+pal4=4.act
+pal5=5.act
+pal6=6.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

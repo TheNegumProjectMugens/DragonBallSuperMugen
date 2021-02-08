@@ -1,0 +1,24 @@
+[Info]
+name ="Goku SS4"
+displayname ="Goku SS4"
+versiondate =15/12/2017
+mugenversion =1.0
+author ="Mikel8888, edited by InSeph and Shiruzato/MYTHOS"
+pal.defaults =1
+
+[Files]
+sprite =GokuSS4.sff
+anim =GokuSS4.air
+sound =GokuSS4.snd
+cmd =GokuSS4.cmd
+cns =GokuSS4.cns
+stcommon =common1.cns
+st =GokuSS4.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

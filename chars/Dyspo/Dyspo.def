@@ -1,0 +1,20 @@
+[Info]
+name="Dyspo"
+displayname="Dyspo"
+versiondate=13/04/2018
+mugenversion= 1.0
+author="Alessandro Valderrama"
+pal.defaults=
+[Files]
+sprite=Dyspo.sff
+sound=
+anim=Dyspo.air
+cmd=Dyspo.cmd
+cns=Dyspo.cns
+st=Dyspo.cns
+stcommon=common1.cns
+pal1=Dyspo.act
+pal2=Dyspo1.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=

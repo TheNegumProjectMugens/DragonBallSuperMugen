@@ -1,0 +1,24 @@
+[Info]
+name = "Vermouth"
+displayname = "Vermouth"
+versiondate = 1/N/53PH
+mugenversion = 1.0
+author = "ProjectEX"
+pal.defaults = 1
+
+[Files]
+sprite = Vermouth_EX.sff
+anim = Vermouth_EX.air
+sound = Vermouth_EX.snd
+cmd = Vermouth_EX.cmd
+cns = Vermouth_EX.cns
+stcommon = common1.cns
+st = Vermouth_EX.cns
+pal1 = 1.act
+st1 = IA.cns
+st2 = Especiales.cns
+st3 = Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

@@ -1,0 +1,338 @@
+Note: This character has more than 3 bars of power,
+but effectively has only 3.
+ If a Special or Super is used with more than 3 bars,
+the character's power will reduce to 3 bars, and then
+lose the amount of power that they normally would.
+ The only scenario where the character will not lose power
+is when using power to transform.
+ This limitation does not apply to Mastered Ultra Instinct,
+and it can use all 6 bars of power for Specials and Supers.
+
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+FORMS:
+(note: hold the combination of buttons listed when
+selecting the character to start the match in that form)
+
+a - Base form
+
+S+a - Super Saiyan 1
+
+S+b - Super Saiyan 2
+
+S+c - Super Saiyan 3
+
+S+x - Super Saiyan God
+
+S+y - Super Saiyan Blue
+
+S+z - Ultra Instinct
+
+z - Mastered Ultra Instinct
+
+COMBOS:
+
+Base Form:
+
+a,a,a,a - Combo 1
+
+b,b,b,b - Combo 2
+
+b,a,a - Air
+
+a,a,a,b,b,b,b,b,a,a - Full
+
+Super Saiyan:
+
+a,a,a,a - Light
+
+b,b,b,b - Heavy
+
+b,b,b,a,a - Air
+
+a,a,a,a,b,b,b,b,b,b,b,a,a - Full
+
+Super Saiyan 2:
+
+a,a,a,a,a - Light
+
+b,b,b - Heavy
+
+b,b,b,b,a,a - Air
+
+a,a,a,a,a,b,b,b,b,b,b,b,a,a - Full
+
+Super Saiyan 3:
+
+a,a,a,a - Light
+
+b,b,b,b,b - Heavy
+
+b,b,a,a - Air
+
+a,a,a,b,b,b,b,b,b,b,a,a - Full
+
+Super Saiyan God:
+
+a,a,a,a,a - Light
+
+b,b,b,b - Heavy
+
+b,b,b,a,a,a - Air
+
+a,a,a,a,a,b,b,b,b,b,b,b,a,a,a - Full
+
+Super Saiyan Blue:
+
+a,a,a,a - Light
+
+b,b,b - Heavy
+
+b,b,b,a,a - Air
+
+a,a,a,a,b,b,b,b,b,b,a,a - Full
+
+Ultra Instinct:
+
+a,a,a,a,a,a,a,a,a,a - Light
+
+b,b,b,b,b - Heavy
+
+b,b,a - Air
+
+a,a,a,a,a,a,a,a,a,b,b,b,b,b,b,b,a - Full
+
+Mastered Ultra Instinct:
+
+a,a,a,a,a,a,a - Light
+
+b,b,b,b,b - Heavy
+
+b,b,a,a - Air
+
+a,a,a,a,a,a,a,b,b,b,b,b,b,b,a,a - Full
+
+SPECIALS:
+
+Base Form:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Spirit Bomb
+
+D,DF,F,b - Meteor Rush
+
+D,DF,F,b - Kai-O Ken Assault (only when Kai-O Ken is active)
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+a - Super Saiyan
+
+D+F+a - Super Saiyan 2
+
+D+B+a - Super Saiyan 3
+
+D+b - Super Saiyan God
+
+D+F+b - Super Saiyan Blue
+
+D+B+b - Ultra Instinct
+
+D+c - Kai-O Ken
+
+Super Saiyan:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Explosive Wave
+
+D,DF,F,b - Meteor Rush II
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+a - Super Saiyan 2
+
+D+B+a - Super Saiyan 3
+
+D+b - Super Saiyan God
+
+D+F+b - Super Saiyan Blue
+
+D+B+b - Ultra Instinct
+
+D+S - Base Form
+
+Super Saiyan 2:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Super Explosive Wave
+
+D,DF,F,b - Ki Pulse
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+a - Super Saiyan 3
+
+D+b - Super Saiyan God
+
+D+F+b - Super Saiyan Blue
+
+D+B+b - Ultra Instinct
+
+D+S - Base Form
+
+Super Saiyan 3:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Super Explosive Wave
+
+D,DF,F,b - God Fist
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Orbit Meteor
+
+D+b - Super Saiyan God
+
+D+F+b - Super Saiyan Blue
+
+D+B+b - Ultra Instinct
+
+D+S - Base Form
+
+Super Saiyan God:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Super Explosive Wave
+
+D,DF,F,b - Super Dragon Fist
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Denjin Kamehameha
+
+D+b - Super Saiyan Blue
+
+D+B+b - Ultra Instinct
+
+D+c - SSG Kai-O Ken
+
+D+S - Base Form
+
+Super Saiyan Blue:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - God Shock Flash
+
+D,DF,F,b - Meteor Barrage (more hits for each SSB Kai-O Ken Ken level)
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Instantaneous Kamehameha
+
+D+b - Ultra Instinct
+
+D+c - SSB Kai-O Ken/SSB Kai-O Ken x10
+
+D+S - Base Form
+
+Ultra Instinct:
+
+D,DF,F,a - Soaring Fist
+
+D,DB,B,a - Impact Pulse
+
+D,DF,F,b - Ultra Slash
+
+D,DB,B,b - Essence Meteor
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Phantom Presence
+
+D+b - Mastered Ultra Instinct
+
+Mastered Ultra Instinct:
+
+D,DF,F,a - Soaring Storm
+
+D,DB,B,a - Phantom Stream
+
+D,DF,F,b - Phantom Striker
+
+D,DB,B,b - Phantom Violence
+
+D,DF,F,c - Ultra Kamehameha
+
+D,DB,B,c - Phantom Avenger
+
+D+b - Mastered Ultra Instinct
+
+SUPER: 
+
+Base Form:
+
+x - Super Spirit Bomb
+
+Super Saiyan:
+
+x - Instant Kamehameha
+
+Super Saiyan 2:
+
+x - SS2 Super Kamehameha
+
+Super Saiyan 3:
+
+x - SS3 Super Kamehameha
+
+y - Dragon Fist
+
+Super Saiyan God:
+
+x - Super God Fist
+
+Super Saiyan Blue:
+
+x - God Kamehameha
+
+x - Last Resort Kamehameha (with SSB Kai-O Ken active)
+
+Ultra Instinct:
+
+x - Ultra Kamehameha
+
+y - Limit Breaker
+
+Mastered Ultra Instinct:
+
+x - Godly Display

@@ -1,0 +1,38 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a,a - Combo 1
+
+b,b,b,b - Combo 2
+
+b,b,a - Air
+
+a,a,a,a,b,b,b,b,b,b,a - Full
+
+SPECIALS:
+
+D,DF,F,a - Scrap Skewer
+
+D,DB,B,a - Darkness Eye Beam
+
+D,DF,F,b - Full Metal Avalanche
+
+D,DB,B,b - Big Gete Strike
+
+D,DF,F,c - Lock On Buster
+
+D,DB,B,c - Finger Blitz Barrage
+
+D+c - Regeneration
+
+SUPER: 
+
+x - One Man Army

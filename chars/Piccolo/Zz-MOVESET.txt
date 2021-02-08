@@ -1,0 +1,38 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a,a,a - Combo 1
+
+b,b - Combo 2
+
+b,b,a - Air
+
+b,b,a,a,a,a,a,b,b,a - Full
+
+SPECIALS:
+
+D,DF,F,a - Soumasen
+
+D,DB,B,a - Chou Makouhou
+
+D,DF,F,b - Bakurikimaha
+
+D,DB,B,b - Kaikosen
+
+D,DF,F,c - Special Beam Cannon
+
+D,DB,B,c - Hellzone Grenade
+
+D,a- Regeneration (1 Time per round)
+
+SUPER: 
+
+x - Light Grenade

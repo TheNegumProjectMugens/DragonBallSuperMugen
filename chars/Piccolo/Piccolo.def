@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Piccolo"
+displayname ="Piccolo"
+versiondate =31/03/2018
+mugenversion =1.0
+author ="Mikel8888, edited by InSeph and Shiruzato/MYTHOS"
+pal.defaults =1
+
+[Files]
+sprite =Piccolo.sff
+anim =Piccolo.air
+sound =Piccolo.snd
+cmd =Piccolo.cmd
+cns =Piccolo.cns
+stcommon =common1.cns
+st =Piccolo.cns
+pal1=1.act
+st1=IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

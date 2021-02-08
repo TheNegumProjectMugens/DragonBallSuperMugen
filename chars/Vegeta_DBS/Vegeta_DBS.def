@@ -1,0 +1,25 @@
+[Info]
+name ="Vegeta FNF"
+displayname ="Vegeta FNF"
+versiondate =28/05/2017
+mugenversion =1.0
+author ="Mikel8888 (edited by InSeph)"
+pal.defaults =1
+
+[Files]
+sprite =VegetaFNF.sff
+anim =VegetaFNF.air
+sound =VegetaFNF.snd
+cmd =VegetaFNF.cmd
+cns =VegetaFNF.cns
+stcommon =common1.cns
+st =VegetaFNF.cns
+pal1=1.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+st4=SSB.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

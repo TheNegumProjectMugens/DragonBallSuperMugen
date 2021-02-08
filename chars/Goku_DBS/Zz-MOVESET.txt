@@ -1,0 +1,80 @@
+
+A - Light Combo
+
+B - Heavy Combo
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+Base Form:
+
+a,a,a - Light
+
+b,b,b - Heavy
+
+b,a - Air
+
+a,a,a,b,b,b,b,a - Full
+
+Super Saiyan Blue:
+
+a,a,a,a - Light
+
+b,b,b - Heavy
+
+b,b,a,a - Air
+
+a,a,a,a,b,b,b,b,b,a,a - Full
+
+SPECIALS:
+
+Base Form:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Spirit Bomb
+
+D,DF,F,b - Meteor Rush
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+a - Super Saiyan Blue
+
+D+b - Kai-O Ken
+
+D+S - Base Form
+
+Super Saiyan Blue:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - God Shock Flash
+
+D,DF,F,b - Meteor Rush
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Instantaneous Kamehameha
+
+D+b - SSB Kai-O Ken/SSB Kai-O Ken x10
+
+D+S - Base Form
+
+SUPER: 
+
+Base Form:
+
+x - Super Spirit Bomb
+
+Super Saiyan Blue:
+
+x - Earth-Saving Super Kamehameha

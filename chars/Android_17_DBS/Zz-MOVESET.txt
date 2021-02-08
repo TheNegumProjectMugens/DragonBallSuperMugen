@@ -1,0 +1,26 @@
+
+A - A Combo
+
+B - B Combo
+
+C - Ki Blast
+
+S - Power Charge
+
+SPECIALS:
+
+D,DF,F,a - Ki Liberation
+
+D,DB,B,a - Infinity Energy Mode
+
+D,DF,F,b - Continuous Energy Bullet
+
+D,DB,B,b - Energy Shield
+
+D,DF,F,c - Energy Wave
+
+D,DB,B,c - Android Rush
+
+SUPER: 
+
+X - Maximum Energy Wave

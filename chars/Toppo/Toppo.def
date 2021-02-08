@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Toppo"
+displayname ="Toppo"
+versiondate =02/04/2017
+mugenversion =1.0
+author ="Tenxu_1407"
+
+
+[Files]
+sprite =Toppo.sff
+anim =Toppo.air
+sound =Toppo.snd
+cmd =Toppo.cmd
+cns =Toppo.cns
+stcommon =common1.cns
+st =Toppo.cns
+pal1=1.act
+st1=IA.cns
+st2=Specials.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

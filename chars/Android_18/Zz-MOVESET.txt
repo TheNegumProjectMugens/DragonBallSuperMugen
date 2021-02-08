@@ -1,0 +1,40 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - 10x Ki Blast
+
+S - Power Charge
+
+D+B - Launcher
+
+D+C - Pulse Dash
+
+COMBOS:
+
+a,a,a,a - Combo 1
+
+b,b,b,b,b - Combo 2
+
+b,b,b,a - Air
+
+a,a,a,a,b,b,b,b,b,b,b,b,a - Full
+
+SPECIALS:
+
+D,DF,F,a - High-Pressure Energy Wave
+
+D,DB,B,a - Android Barrier
+
+D,DF,F,b - Kienzan
+
+D,DB,B,b - Sadistic 18
+
+D,DF,F,c - Power Blitz
+
+D,DB,B,c - Infinity Bullet
+
+SUPER: 
+
+x - Accel Dance

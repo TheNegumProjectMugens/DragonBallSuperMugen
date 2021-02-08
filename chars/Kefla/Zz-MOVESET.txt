@@ -1,0 +1,82 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+FORMS:
+(note: hold the combination of buttons listed when
+selecting the character to start the match in that form)
+
+a - Base form
+
+S+a - Super Saiyan Berserker
+
+COMBOS:
+
+Base Form:
+
+a,a,a,a,a - Combo 1
+
+b,b,b,b,b,b - Combo 2
+
+b,b,a - Air
+
+a,a,a,a,b,b,b,b,b,b,b,a - Full
+
+Super Saiyan Berserker:
+
+a,a,a,a,a,a - Combo 1
+
+b,b,b,b,b,b - Combo 2
+
+b,b,b,a - Air
+
+a,a,a,a,a,b,b,b,b,a,a,a,a,a,b - Full
+
+SPECIALS:
+
+Base Form:
+
+D,DF,F,a - Force Barrier
+
+D,DB,B,a - Sudden Dash
+
+D,DF,F,b - Full-Speed Domination
+
+D,DB,B,b - Fist Cannonball
+
+D,DF,F,c - Super Crush Cannon
+
+D,DB,B,c - Berserker Blast
+
+D+a - Super Saiyan Berserk
+
+Super Saiyan Berserk:
+
+D,DF,F,a - Force Barrage
+
+D,DB,B,a - Double Blindside
+
+D,DF,F,b - Full-Speed Berserker Rampage
+
+D,DB,B,b - Hyper Cannonball Breaker
+
+D,DF,F,c - Hyper Omega Crusher
+
+D,DB,B,c - Dual Berserker Blast
+
+D+b - Shunkan Ido
+
+SUPER: 
+
+Base Form:
+
+x - Gigantic Blast
+
+Super Saiyan Berserker:
+
+x - Final Weapon

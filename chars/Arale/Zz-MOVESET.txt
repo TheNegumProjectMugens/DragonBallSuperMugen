@@ -1,0 +1,36 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Poop Toss
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a,a - Combo 1
+
+b,b,b,b - Combo 2
+
+a,b - Air
+
+a,a,a,a,b,b,b,b,a,b - Full
+
+SPECIALS:
+
+D,DF,F,a - Poop Poke!
+
+D,DB,B,a - Playing Pro Wrestling!
+
+D,DF,F,b - Gatchan Assist!
+
+D,DB,B,b - Kiiin!
+
+D,DF,F,c - Woohoo!
+
+D,DB,B,c - N'Cha Cannon!!
+
+SUPER: 
+
+x - Earth-Splitter!!!

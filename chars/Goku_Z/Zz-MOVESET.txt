@@ -1,0 +1,138 @@
+
+A - Light Combo
+
+B - Heavy Combo
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+Base Form:
+
+a,a,a - Light
+
+b,b - Heavy
+
+b,a - Air
+
+a,a,b,b,b,a - Full
+
+Super Saiyan:
+
+a,a,a - Light
+
+b,b,b - Heavy
+
+b,a,a - Air
+
+a,a,a,b,b,b,b,a,a - Full
+
+Super Saiyan 2:
+
+a,a,a,a - Light
+
+b,b,b - Heavy
+
+b,b,a,a - Air
+
+a,a,a,b,b,b,b,b,a,a - Full
+
+Super Saiyan 3:
+
+a,a,a,a - Light
+
+b,b,b,b - Heavy
+
+a,a - Air
+
+a,a,a,b,b,b,b,a,a - Full
+
+SPECIALS:
+
+Base Form:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Spirit Bomb
+
+D,DF,F,b - Kai-O Ken
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+a - Super Saiyan
+
+D+b - Super Saiyan 2
+
+D+c - Super Saiyan 3
+
+D+S - Base Form
+
+Super Saiyan:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Super Explosive Wave
+
+D,DF,F,b - Meteor Rush
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+b - Super Saiyan 2
+
+D+c - Super Saiyan 3
+
+D+S - Base Form
+
+Super Saiyan 2:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Explosive Wave
+
+D,DF,F,b - Ki Pulse
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Kamehameha
+
+D,DB,B,c - Super Energy Wave Volley
+
+D+c - Super Saiyan 3
+
+D+S - Base Form
+
+Super Saiyan 3:
+
+D,DF,F,a - Kiai
+
+D,DB,B,a - Super Explosive Wave
+
+D,DF,F,b - Dragon Fist
+
+D,DB,B,b - Shunkan Ido
+
+D,DF,F,c - Super Kamehameha
+
+D,DB,B,c - Dragon Rush
+
+D+S - Base Form
+
+SUPER: 
+
+x - Super Spirit Bomb
+
+x - Instant Kamehameha (in Super Saiyan)
+
+x - SS2 Super Kamehameha (in Super Saiyan 2)
+
+x - SS3 Super Kamehameha (in Super Saiyan 3)

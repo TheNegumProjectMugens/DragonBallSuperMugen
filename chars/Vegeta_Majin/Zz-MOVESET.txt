@@ -1,0 +1,36 @@
+
+A - Combo 1
+
+B - Combo 2
+
+C - Ki Blast
+
+S - Power Charge
+
+COMBOS:
+
+a,a,a - Combo 1
+
+b,b,b,b,b - Combo 2
+
+a,a,a,b,b - Air Combo
+
+a,a,a,b,b,b,b,b,a,a,a,b,b - Full Combo
+
+SPECIALS:
+
+D,DF,F,a - Dark Impact
+
+D,DB,B,a - Atomic Blast
+
+D,DF,F,b - Jail Ring
+
+D,DB,B,b - Murderous Surge
+
+D,DF,F,c - Dark Final Flash
+
+D,DB,B,c - Big Bang Attack 
+
+SUPER: 
+
+x - Final Sacrifice

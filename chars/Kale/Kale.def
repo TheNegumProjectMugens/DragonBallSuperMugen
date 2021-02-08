@@ -1,0 +1,23 @@
+[Info]
+name="Kale"
+displayname="Kale"
+versiondate=30/04/2018
+mugenversion=1.0
+author="Planeptune, edited by Shiruzato/Mythos"
+pal.defaults=1
+[Files]
+sprite=Kale.sff
+sound=Kale.snd
+anim=Kale.air
+cmd=Kale.cmd
+cns=Kale.cns
+st=Kale.cns
+stcommon=common1.cns
+pal1=Kale.act
+st1=AI.cns
+[Arcade]
+intro.storyboard=
+ending.storyboard=
+;Credits: Sprite Kale ssj base by lasersprite, Sprite kale Normal base by Martin720
+;Voices by knightmare, some effects by rivelio, code base by mikel8888
+
