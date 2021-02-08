@@ -1,0 +1,402 @@
+;--------------------------------------------------------
+;---DBZ_PROJECT--
+; By Blackscale299
+;--------------------------------------------------------
+[Info]
+name = "Namek"
+displayname = "Namek"
+mugenversion = 1.1
+author = "Blackscale299"
+;====================
+[Camera]
+startx = 0
+starty = 0
+boundleft = -2000
+boundright = 2000
+boundhigh = -130
+boundlow = 0
+verticalfollow = 3
+floortension = 0
+tension = 110
+cutlow = 40
+tensionhigh = 170
+tensionlow = 60
+zoomin = .9
+zoomout = .35
+
+[PlayerInfo]
+p1startx =  -70 
+p1starty = 0   
+p1startz = 0   
+p1facing = 1   
+p2startx =  70 
+p2starty = 0
+p2startz = 0
+p2facing = -1
+leftbound  = -3100 
+rightbound =  7000 
+topbound  =  0  
+botbound  =  100  
+
+[Scaling]
+topz = 0   
+botz = 100  
+topscale = 1   
+botscale = 2
+ 
+[Bound]
+screenleft = 25 
+screenright = 25
+
+[StageInfo]
+zoffset = 190
+autoturn = 1
+resetBG = 1
+hires = 1
+localcoord=355,199
+
+[Shadow]
+intensity = 70
+color = 0,0,0
+yscale = .1
+fade.range = 0,0
+
+[Reflection]
+intensity = 0
+;====================
+[Music]
+bgmusic = sound/dragon ball z pelea.mp3
+bgmvolume = 255
+;====================
+[BGdef]
+spr = Namek.sff
+debugbg = 0
+;====================
+
+
+[BG Sky]
+type  = parallax
+spriteno = 0, 0
+start = 0, 250
+delta = 0.0, 3.5
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+width = 1700, 1000
+yscalestart = 80
+yscaledelta = .3
+scalestart = 3,1.325
+
+[BG Moon]
+type  = normal
+spriteno = 0, 6
+start = 18, -20
+delta = .2125,3.5
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+scalestart= 2,2
+
+[BG Clouds2]
+type  = normal
+spriteno = 0, 4
+start = 360, 131
+delta = 0.35, 3.8
+mask = 1
+velocity = 0.05, 0
+tile = 1, 0
+tilespacing = 450, 0
+scalestart = .5,.5
+
+[BG Clouds1]
+type  = normal
+spriteno = 0, 8
+start = -31, 140
+delta = 0.35, 3.9
+mask = 1
+velocity = -0.15, 0
+tile = 1, 0
+tilespacing = 550, 0
+scalestart = .5,.5
+[BG Clouds2]
+type  = normal
+spriteno = 0, 4
+start = 60, 181
+delta = 0.35, 3.8
+mask = 1
+velocity = -0.05, 0
+tile = 1, 0
+tilespacing = 750, 0
+scalestart = .5,.5
+[BG Clouds3]
+type  = normal
+spriteno = 0, 5
+start = 100, 171
+delta = 0.35, 3.8
+mask = 1
+velocity = -0.025, 0
+tile = 1, 0
+tilespacing = 350, 0
+scalestart = .5,.5
+
+[BG Clouds1]
+type  = normal
+spriteno = 0, 3
+start = -231, 200
+delta = 0.35, 3.9
+mask = 1
+velocity = 0.15, 0
+tile = 1, 0
+tilespacing = 750, 0
+scalestart = .5,.5
+
+[BG Clouds3]
+type  = normal
+spriteno = 0, 5
+start = 200, 200
+delta = 0.35, 3.8
+mask = 1
+velocity = 0.025, 0
+tile = 1, 0
+tilespacing = 950, 0
+scalestart = .5,.5
+
+[BG Water]
+type  = parallax
+spriteno = 0, 2
+start = -5, 298
+delta = 0.3, 3
+mask = 1
+velocity = -0.125, 0
+tile = 1, 0
+width = 200, 700
+yscalestart = 100
+yscaledelta =-1.5
+scalestart = 1,.35
+
+[BG Long thing]
+type  = normal
+spriteno = 1, 1
+start = 0, 236
+delta = 0.28, 3.7
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+tilespacing = 0,0
+scalestart = .5,.5
+[BG Mountains]
+type  = normal
+spriteno = 1, 0
+start = 0, 236
+delta = 0.3, 3.6
+mask = 1
+velocity = 0, 0
+tile = 3, 0
+tilespacing = -30,0
+scalestart = .5,.5
+
+[BG Mountains]
+type  = normal
+spriteno = 1, 0
+start = 900, 236
+delta = 0.3, 3.6
+mask = 1
+velocity = 0, 0
+tile = 2, 0
+tilespacing = -30,0
+scalestart = .5,.5
+
+[BG Isle 5]
+type  = normal
+spriteno = 2, 4
+start = 538, 251
+delta = .445, 3.55
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 2550, 0
+scalestart = .5,.5
+
+[BG Isle 4]
+type  = normal
+spriteno = 2, 3
+start = 619, 263
+delta = .525, 3.4
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 2440, 0
+scalestart = .5,.5
+
+[BG Mountain]
+type  = normal
+spriteno = 2, 1
+start = -219, 263
+delta = .45, 3.3
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 2330, 0
+scalestart = .5,.5
+[BG Isle 3]
+type  = normal
+spriteno = 2, 5
+start = -219, 263
+delta = .5, 3.25
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 2330, 0
+scalestart = .45,.45
+[BG Tree1]
+type  = normal
+spriteno = 2, 9
+start = -313, 244
+delta = .5, 3.25
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+tilespacing = 0, 0
+scalestart = .2,.2
+[BG Tree2]
+type  = normal
+spriteno = 2, 9
+start = -96, 243
+delta = .5, 3.25
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+tilespacing = 0, 0
+scalestart = .125,.125
+
+[BG Isle 2]
+type  = normal
+spriteno = 2, 7
+start = -219, 263
+delta = .65, 2.925
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 1720, 0
+scalestart = .5,.5
+[BG Tree]
+type  = normal
+spriteno = 2, 6
+start = -172, 272
+delta = .65, 2.925
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 3350, 0
+scalestart = .3,.3
+
+[BG Isle 1]
+type  = normal
+spriteno = 2, 2
+start = 270, 308
+delta = .7251, 2.9
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 2220, 0
+scalestart = .5,.5
+[BG Isle 0]
+type  = normal
+spriteno = 2, 8
+start = 270, 308
+delta = .85, 2.85
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 2220, 0
+scalestart = .5,.5
+
+[BG Tree]
+type  = normal
+spriteno = 2, 6
+start = 222, 349
+delta = 1.25, 2.8
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 1125, 0
+scalestart = .8,.8
+
+[BG Rocks]
+type  = normal
+spriteno = 2, 0
+start = -343, 328
+delta = 1.25,2.7
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+scalestart = 1,1
+tilespacing = -75,0
+
+[BG Ground]
+type  = parallax
+spriteno = 0, 1
+start = 40, 375
+delta = 1.2, 2
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+width = 700, 1500
+yscalestart = 150
+yscaledelta = -2.5
+
+[BG Capsule Corp Right]
+type  = normal
+spriteno = 3, 0
+start = -580, 357
+delta = 1.5, 2.925
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+tilespacing = 0, 0
+scalestart = .5,.5
+scaledelta = -0.00009515,0
+[BG Capsule Corp Left]
+type  = normal
+spriteno = 3, 2
+start = -507, 357
+delta = 1.5, 2.925
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+tilespacing = 0, 0
+scalestart = .5,.5
+scaledelta = 0.00009515,0
+[BG Capsule Corp Mid]
+type  = normal
+spriteno = 3, 1
+start = -501, 357
+delta = 1.5, 2.925
+mask = 1
+velocity = 0, 0
+tile = 0, 0
+tilespacing = 0, 0
+scalestart = .5,.5
+
+[BG Tree Blurry Layer]
+type  = normal
+spriteno = 2, 9
+start = 500, 464
+delta = 2.4, 2
+mask = 1
+velocity = 0, 0
+tile = 1, 0
+tilespacing = 1350,0
+zoomdelta = .7
+layerno=1
+
+[BG Shine]
+type  = normal
+spriteno = 0, 7
+start = 0, 0
+mask = 1
+tile = 1,1
+layerno = 1
+delta = 1.1, 1.1
+trans = addalpha
+alpha = 100, 256

@@ -1,0 +1,205 @@
+;                        EDITED STAGE
+;=============================================================
+;  STAGE INFORMATION :
+;
+;  Resolution : 1280 * 720
+;  Mugen Version : Mugen 1.1 only
+;  Versiondate : Noviembre,2014
+;  Reedicion : Daniel's 
+;
+;=============================================================
+
+
+;credits/thanks = Saiyajin Mui, for ripping all the materials that have been used to make this stage
+
+[Info]
+name = "[DM] Supreme Kai's Planet"
+displayname="Supreme Kai's Planet"
+mugenversion=1.1
+author = "DooM"
+;ReEdit   = "********-----Remake by Daniel's-------******" 
+;--------------------------------------------------------
+
+
+
+[Camera]
+startx = 0
+starty = 0
+boundleft = -930
+boundright =930
+boundhigh = -750
+boundlow = 0
+verticalfollow = .70
+floortension = 100
+tension = 200
+tensionhigh = 460
+tensionlow = 60
+overdrawhigh = 100
+overdrawlow = 100
+cuthigh = 0
+cutlow = 0
+zoomin =.9
+zoomout = .45
+
+
+
+
+[PlayerInfo]
+p1startx = -240
+p1starty = 0
+p1startz = 0
+p1facing = 1
+
+p2startx = 240
+p2starty = 0
+p2startz = 0
+p2facing = -1
+
+;--- Player 3 ---
+p3startx = -390
+p3starty = 0
+p3facing = 1
+
+;--- Player 4 ---
+p4startx = 390
+p4starty = 0
+p4facing = -1
+
+
+leftbound  = -4000
+rightbound =  4000
+topbound  =  0
+botbound  =  0
+
+
+[Bound]
+screenleft = 80
+screenright =80
+
+[StageInfo]
+zoffset = 590
+autoturn = 1
+resetBG = 1
+localcoord= 1152,648
+
+[Shadow]
+intensity = 75
+color = 0,0,0
+yscale = .3
+fade.range = 0,0
+
+[Reflection]
+intensity = 0
+
+[Music]
+bgmusic = sound/Butchi GIRI no Sugoi Yatsu Edit.mp3
+bgmvolume = 255
+
+[BGdef]
+spr = Supreme_kais_planet.sff
+debugbg = 0
+
+
+;-------------------------
+
+[BG sky]
+type  = normal
+spriteno = 5, 0               
+start = 0, 680
+delta = .2, .6
+mask  = 1
+
+[BG monta4]
+type  = normal
+spriteno = 4, 0
+start = 0, 680
+delta = .3, .65
+mask = 1
+
+[BG clouds]
+type  = normal
+spriteno = 5, 1
+layerno = 0                
+start = 0, 680
+velocity = .1, 0
+delta = .45, .7
+trans = addalpha
+alpha = 128, 256
+
+[BG monta3]
+type  = normal
+spriteno = 3, 0
+start = 0, 680
+delta = .5, .8
+mask = 1
+
+[BG Waterfalls anim]
+type = anim
+actionno = 2
+start = 0, 680
+delta = .5, .8
+
+
+
+
+
+[BG monta2]
+type  = normal
+spriteno = 6, 0
+start = 0, 680
+delta = .55,.85
+mask = 1
+
+
+[BG monta1]
+type  = normal
+spriteno = 1, 0
+start = 0, 680
+delta = .6,.9
+mask = 1
+
+
+;
+[BG Waterfall anim]
+type = anim
+actionno = 1
+start = 0, 680
+delta = .6,.9
+
+[BG smoke]
+type  = normal
+spriteno = 9,0
+start = 0, 680
+delta = .75,.95
+mask = 1
+trans = addalpha
+alpha = 180,256
+velocity = -.4,0
+tile = 1,0
+tilespacing = 0,0
+scalestart =2,2
+
+[BG ground]
+type  = parallax
+spriteno = 0, 1
+start = 0, 680
+delta = 1,1
+width=4550,4250
+mask = 1
+scalestart=1,1.2
+
+
+;Waterfall anim 1
+[Begin Action 1]
+7,0,0,0,5,,AS164D256
+7,3,0,0,5,,AS164D256
+7,2,0,0,5,,AS164D256
+7,1,0,0,5,,AS164D256
+
+;Waterfall anim 2
+[Begin Action 2]
+8,0, 4,0, 5, , AS164D256
+8,2, 4,0, 5, , AS164D256
+8,1, 4,0, 5, , AS164D256
+8,3, 4,0, 5, , AS164D256
+
